@@ -1,11 +1,11 @@
 ## ☁️ Google Cloud Skill Badges
 
 <p align="left">
-  <a href="https://www.skills.google/public_profiles/852c3486-84e8-4356-8c80-a3223cbce058/badges/20734336">
-    <img src="https://www.skills.google/public_profiles/852c3486-84e8-4356-8c80-a3223cbce058/badges/20734336" width="120"/>
+  <a href="https://www.skills.google/public_profiles/852c3486-84e8-4356-8c80-a3223cbce058/badges/20734336" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/PriyanshiG-HUB/PriyanshiG-HUB/main/Automate%20Data%20Capture%20at%20Scale%20with%20Document%20AI.png" width="140"/>
   </a>
 
-  <a href="https://www.skills.google/public_profiles/852c3486-84e8-4356-8c80-a3223cbce058/badges/20735415">
-    <img src="https://www.skills.google/public_profiles/852c3486-84e8-4356-8c80-a3223cbce058/badges/20735415" width="120"/>
+  <a href="https://www.skills.google/public_profiles/852c3486-84e8-4356-8c80-a3223cbce058/badges/20735415" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/PriyanshiG-HUB/PriyanshiG-HUB/main/YOUR_SECOND_BADGE_FILENAME.png" width="140"/>
   </a>
 </p>
