@@ -48,7 +48,8 @@
 ### 📈 TickerTracker
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/PriyanshiG-HUB/PriyanshiG-HUB/main/tickertracker.png" width="800"/>
+<img src=<img width="1128" height="923" alt="image" src="https://github.com/user-attachments/assets/d72e34d8-e05b-49e6-b236-c81c3dabc653" />
+" width="800"/>
 </p>
 
 Stock tracking and visualization dashboard for monitoring market trends.
@@ -60,7 +61,8 @@ Stock tracking and visualization dashboard for monitoring market trends.
 ### 🚖 Ola Data Analysis
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/PriyanshiG-HUB/PriyanshiG-HUB/main/ola.png" width="800"/>
+<img src="<img width="1469" height="845" alt="image" src="https://github.com/user-attachments/assets/23af0fee-caec-48f7-a3a6-12ab3dd093da" />
+" width="800"/>
 </p>
 
 Power BI analytics dashboard exploring booking patterns, revenue insights, and cancellations.
