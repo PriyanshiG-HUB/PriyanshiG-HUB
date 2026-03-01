@@ -45,43 +45,38 @@
 
 ## 🚀 Featured Projects
 
-### 📈 TickerTracker
+<p align="left">
 
-<p align="center">
-<img src=<img width="1128" height="923" alt="image" src="https://github.com/user-attachments/assets/d72e34d8-e05b-49e6-b236-c81c3dabc653" />
-" width="800"/>
+  <!-- TickerTracker -->
+
+  <a href="https://github.com/PriyanshiG-HUB/TickerTracker" target="_blank">
+    <img src="https://raw.githubusercontent.com/PriyanshiG-HUB/TickerTracker/main/TickerTracker.png" width="260"/>
+  </a>
+
+  <!-- Ola Analysis -->
+
+  <a href="https://github.com/PriyanshiG-HUB/Ola_Data_Analysis" target="_blank">
+    <img src="https://raw.githubusercontent.com/PriyanshiG-HUB/PriyanshiG-HUB/main/ola_preview.png" width="260"/>
+  </a>
+
+  <!-- Delhi AQI -->
+
+  <a href="https://github.com/PriyanshiG-HUB/Delhi_Weather_AQI" target="_blank">
+    <img src="https://raw.githubusercontent.com/PriyanshiG-HUB/PriyanshiG-HUB/main/delhi_preview.png" width="260"/>
+  </a>
+
+  <!-- ESG Fraud -->
+
+  <a href="https://github.com/PriyanshiG-HUB/ESG_Fruad_Detection" target="_blank">
+    <img src="https://raw.githubusercontent.com/PriyanshiG-HUB/ESG_Fruad_Detection/main/ESG_Output.png" width="260"/>
+  </a>
+
 </p>
 
-Stock tracking and visualization dashboard for monitoring market trends.
-
-🔗 https://github.com/PriyanshiG-HUB/TickerTracker
-
----
-
-### 🚖 Ola Data Analysis
-
-<p align="center">
-<img src="<img width="1469" height="845" alt="image" src="https://github.com/user-attachments/assets/23af0fee-caec-48f7-a3a6-12ab3dd093da" />
-" width="800"/>
+<p align="left">
+<img src="https://img.shields.io/badge/Click%20Images%20to%20View%20Projects-00FFAA?style=for-the-badge"/>
 </p>
 
-Power BI analytics dashboard exploring booking patterns, revenue insights, and cancellations.
-
-🔗 https://github.com/PriyanshiG-HUB/Ola_Data_Analysis
-
----
-
-### 🌦️ Delhi Weather AQI
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/PriyanshiG-HUB/PriyanshiG-HUB/main/delhi.png" width="800"/>
-</p>
-
-Environmental data analysis dashboard analyzing AQI trends and pollution metrics.
-
-🔗 https://github.com/PriyanshiG-HUB/Delhi_Weather_AQI
-
----
 
 ## 🎓 Certifications & Achievements
 
