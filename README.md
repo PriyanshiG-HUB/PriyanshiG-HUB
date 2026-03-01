@@ -1,14 +1,12 @@
-<!-- HEADER -->
-
 <h1 align="center">Hi 👋, I'm Priyanshi</h1>
-<h3 align="center">🚀 AI Enthusiast | Data Analyst | Full Stack Developer</h3>
+<h3 align="center">🚀 AI Enthusiast | Data Analyst | Full Stack Learner</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=28&center=true&vCenter=true&width=600&lines=AI+Developer;Data+Analytics+Enthusiast;Full+Stack+Learner;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=28&center=true&vCenter=true&width=600&lines=AI+Developer;Data+Analytics+Enthusiast;Full+Stack+Learner;Open+Source+Contributor" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=PriyanshiG-HUB&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=PriyanshiG-HUB&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -24,26 +22,24 @@
 
 ---
 
-## 🌐 Connect With Me
+## 📄 Resume
 
-<p>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<p align="center">
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Download%20Resume-00FFAA?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" />
+</a>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge\&logo=flask)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
 
 ---
 
@@ -51,30 +47,68 @@
 
 ### 📈 TickerTracker
 
-Stock tracking and visualization tool for monitoring market trends.
+<p align="center">
+<img src="https://raw.githubusercontent.com/PriyanshiG-HUB/PriyanshiG-HUB/main/tickertracker.png" width="800"/>
+</p>
+
+Stock tracking and visualization dashboard for monitoring market trends.
+
 🔗 https://github.com/PriyanshiG-HUB/TickerTracker
 
-### 🌦️ Delhi Weather AQI
-
-Data analysis project exploring pollution and weather patterns in Delhi.
-🔗 https://github.com/PriyanshiG-HUB/Delhi_Weather_AQI
+---
 
 ### 🚖 Ola Data Analysis
 
-Exploratory data analysis and visualization of ride-sharing datasets.
+<p align="center">
+<img src="https://raw.githubusercontent.com/PriyanshiG-HUB/PriyanshiG-HUB/main/ola.png" width="800"/>
+</p>
+
+Power BI analytics dashboard exploring booking patterns, revenue insights, and cancellations.
+
 🔗 https://github.com/PriyanshiG-HUB/Ola_Data_Analysis
 
-### 🛡️ ESG Fraud Detection
+---
 
-Machine learning project detecting fraudulent ESG activities using data.
-🔗 https://github.com/PriyanshiG-HUB/ESG_Fruad_Detection
+### 🌦️ Delhi Weather AQI
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/PriyanshiG-HUB/PriyanshiG-HUB/main/delhi.png" width="800"/>
+</p>
+
+Environmental data analysis dashboard analyzing AQI trends and pollution metrics.
+
+🔗 https://github.com/PriyanshiG-HUB/Delhi_Weather_AQI
+
+---
+
+## 🎓 Certifications & Achievements
+
+* 🏆 Research Paper Presentation — SMARTCOM Conference
+* 📊 Data Analytics & Visualization Projects
+* 💡 Academic Projects in AI & Machine Learning
+
+---
+
+## 📊 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/bZ7pkQeFdT?theme=dark&font=Nunito&ext=contest" />
+</p>
+
+---
+
+## 📈 Coding Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyanshiG-HUB&theme=react-dark" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PriyanshiG-HUB&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=PriyanshiG-HUB&theme=radical&no-frame=true" />
 </p>
 
 ---
@@ -88,15 +122,7 @@ Machine learning project detecting fraudulent ESG activities using data.
 
 ---
 
-## 📈 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshiG-HUB&layout=compact&theme=radical"/>
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/PriyanshiG-HUB/PriyanshiG-HUB/output/github-contribution-grid-snake.svg" />
@@ -105,6 +131,7 @@ Machine learning project detecting fraudulent ESG activities using data.
 ---
 
 ⭐️ From Priyanshi with ❤️
+
 ## ☁️ Google Cloud Skill Badges
 
 <p align="left">
