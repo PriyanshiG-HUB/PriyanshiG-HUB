@@ -155,31 +155,31 @@
 
 <p align="center">
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/Y4ELKYTR?sharingId=306583673B033A7C">
-    <img src="E" width="120"/>
+    <img src="Explore prebuilt Microsoft 365 Copilot agents.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/H27BVQW8?sharingId=306583673B033A7C">
-    <img src="badge2.png" width="120"/>
+    <img src="Introduction to MCP Server.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/JHUAHBVT?sharingId=306583673B033A7C">
-    <img src="badge3.png" width="120"/>
+    <img src="Accelerate development with GitHub Copilot.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/FEMSECTX?sharingId=306583673B033A7C">
-    <img src="badge4.png" width="120"/>
+    <img src="Building applications with GitHub Copilot.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/7DKCDJ7Z?sharingId=306583673B033A7C">
-    <img src="badge5.png" width="120"/>
+    <img src="Develop unit tests using GitHub Copilot tools.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/P6LN6BP4?sharingId=306583673B033A7C">
-    <img src="badge6.png" width="120"/>
+    <img src="Developer use cases for AI with GitHub.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/D39R9KWJ?sharingId=306583673B033A7C">
-    <img src="badge1.png" width="120"/>
+    <img src="Management and customization considerations with GitHub Copilot.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/4CGFGCPK?sharingId=306583673B033A7C">
@@ -187,63 +187,63 @@
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/2TDUB34V?sharingId=306583673B033A7C">
-    <img src="badge3.png" width="120"/>
+    <img src="Using advanced GitHub Copilot features.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/8VZD7YKW?sharingId=306583673B033A7C">
-    <img src="badge4.png" width="120"/>
+    <img src="Introduction to Copilot Spaces.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/JHUACZRT?sharingId=306583673B033A7C">
-    <img src="badge5.png" width="120"/>
+    <img src="Introduction to prompt engineering with GitHub Copilot.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/ZJB94B32?sharingId=306583673B033A7C">
-    <img src="badge6.png" width="120"/>
+    <img src="Responsible AI with GitHub Copilot.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/JHUA6B4T?sharingId=306583673B033A7C">
-    <img src="badge1.png" width="120"/>
+    <img src="Communicate effectively on GitHub using Markdown.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/FEMSZ6GX?sharingId=306583673B033A7C">
-    <img src="badge2.png" width="120"/>
+    <img src="Manage your work with GitHub Project.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/Y4ELVB7R?sharingId=306583673B033A7C">
-    <img src="badge3.png" width="120"/>
+    <img src="Code with GitHub Codespaces.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/NQVT7XVF?sharingId=306583673B033A7C">
-    <img src="badge4.png" width="120"/>
+    <img src="Introduction to GitHub Copilot.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/JHUAGRYT?sharingId=306583673B033A7C">
-    <img src="badge5.png" width="120"/>
+    <img src="Configure code scanning on GitHub.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/NQVJ83MF?sharingId=306583673B033A7C">
-    <img src="badge6.png" width="120"/>
+    <img src="Introduction to GitHub's products.png" width="120"/>
   </a>
 
   <p align="center">
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/P6LWQUR4?sharingId=306583673B033A7C">
-    <img src="badge1.png" width="120"/>
+    <img src="Introduction to GitHub.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/3ZA4C59H?sharingId=306583673B033A7C">
-    <img src="badge2.png" width="120"/>
+    <img src="Introduction to Git.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/XPQS3J5Y?sharingId=306583673B033A7C">
-    <img src="badge3.png" width="120"/>
+    <img src="Tooling, MCP, and Agent Execution Environments.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/3ZA45QUH?sharingId=306583673B033A7C">
-    <img src="badge4.png" width="120"/>
+    <img src="Designing Agent Architecture and SDLC Integration.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/ZJBCWZF2?sharingId=306583673B033A7C">
-    <img src="badge5.png" width="120"/>
+    <img src="Foundations of Agentic AI in GitHub.png" width="120"/>
   </a>
 </p>
