@@ -155,7 +155,7 @@
 
 <p align="center">
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/Y4ELKYTR?sharingId=306583673B033A7C">
-    <img src="badge1.png" width="120"/>
+    <img src="E" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/H27BVQW8?sharingId=306583673B033A7C">
