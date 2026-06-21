@@ -139,6 +139,42 @@
   <a href="https://www.skills.google/public_profiles/852c3486-84e8-4356-8c80-a3223cbce058/badges/20735415" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/PriyanshiG-HUB/PriyanshiG-HUB/main/Prepare%20Data%20for%20ML%20APIs%20on%20Google%20Cloud.png" width="140" alt="Google Cloud Badge 2"/>
   </a>
+
+  <a href="https://www.skills.google/public_profiles/852c3486-84e8-4356-8c80-a3223cbce058/badges/20735415" target="_blank" rel="noopener noreferrer">
+    <img src="Prompt Design in Agent Platform.png" width="140" height="150" alt="Google Cloud Badge 2"/>
+  </a>
+
+  <a href="https://www.skills.google/public_profiles/852c3486-84e8-4356-8c80-a3223cbce058/badges/20735415" target="_blank" rel="noopener noreferrer">
+    <img src="Responsible AI for Developers_Fairness & Bias.png" width="140" alt="Google Cloud Badge 2"/>
+  </a>
+
+  <a href="https://www.skills.google/public_profiles/852c3486-84e8-4356-8c80-a3223cbce058/badges/20735415" target="_blank" rel="noopener noreferrer">
+    <img src="Machine Learning Operations (MLOps) with Vertex AI_Model Evaluation.png" width="140" alt="Google Cloud Badge 2"/>
+  </a>
+
+  <a href="https://www.skills.google/public_profiles/852c3486-84e8-4356-8c80-a3223cbce058/badges/20735415" target="_blank" rel="noopener noreferrer">
+    <img src="Machine Learning Operations (MLOps) for Generative AI.png" width="140" alt="Google Cloud Badge 2"/>
+  </a>
+
+  <a href="https://www.skills.google/public_profiles/852c3486-84e8-4356-8c80-a3223cbce058/badges/20735415" target="_blank" rel="noopener noreferrer">
+    <img src="Responsible AI_Applying AI Principles with Google Cloud.png" width="140" alt="Google Cloud Badge 2"/>
+  </a>
+
+  <a href="https://www.skills.google/public_profiles/852c3486-84e8-4356-8c80-a3223cbce058/badges/20735415" target="_blank" rel="noopener noreferrer">
+    <img src="Introduction to Responsible AI.png" width="140" alt="Google Cloud Badge 2"/>
+  </a>
+
+  <a href="https://www.skills.google/public_profiles/852c3486-84e8-4356-8c80-a3223cbce058/badges/20735415" target="_blank" rel="noopener noreferrer">
+    <img src="Introduction to Large Language Models.png" width="140" alt="Google Cloud Badge 2"/>
+  </a>
+
+  <a href="https://www.skills.google/public_profiles/852c3486-84e8-4356-8c80-a3223cbce058/badges/20735415" target="_blank" rel="noopener noreferrer">
+    <img src="Introduction to Generative AI.png" width="140" alt="Google Cloud Badge 2"/>
+  </a>
+
+  <a href="https://www.skills.google/public_profiles/852c3486-84e8-4356-8c80-a3223cbce058/badges/20735415" target="_blank" rel="noopener noreferrer">
+    <img src="Gen AI Apps_Transform Your Work.png" width="140" alt="Google Cloud Badge 2"/>
+  </a>
 </p>
 
 ---
