@@ -146,7 +146,7 @@
 ## 🏅 Microsoft Learn Achievements
 
 <p align="center">
-  <a href="YOUR_MICROSOFT_LEARN_PROFILE">
+  <a href="https://learn.microsoft.com/en-us/users/priyanshigajiwala-3140/">
     <img src="https://img.shields.io/badge/Microsoft%20Learn-View%20My%20Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   </a>
 
@@ -179,11 +179,11 @@
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/D39R9KWJ?sharingId=306583673B033A7C">
-    <img src="Management and customization considerations with GitHub Copilot.png" width="120"/>
+    <img src="Management and customization considerations with Github Copilot.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/4CGFGCPK?sharingId=306583673B033A7C">
-    <img src="badge2.png" width="120"/>
+    <img src="GitHub Copilot Across Environments_IDE-Chat-CommandLineTechniques-GithubCopilotApp.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/2TDUB34V?sharingId=306583673B033A7C">
@@ -195,7 +195,7 @@
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/JHUACZRT?sharingId=306583673B033A7C">
-    <img src="Introduction to prompt engineering with GitHub Copilot.png" width="120"/>
+    <img src="Introduction to prompt engineering with Github Copilot.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/ZJB94B32?sharingId=306583673B033A7C">
@@ -225,8 +225,7 @@
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/NQVJ83MF?sharingId=306583673B033A7C">
     <img src="Introduction to GitHub's products.png" width="120"/>
   </a>
-
-  <p align="center">
+  
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/P6LWQUR4?sharingId=306583673B033A7C">
     <img src="Introduction to GitHub.png" width="120"/>
   </a>
@@ -236,7 +235,7 @@
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/XPQS3J5Y?sharingId=306583673B033A7C">
-    <img src="Tooling, MCP, and Agent Execution Environments.png" width="120"/>
+    <img src="Tooling, MCP, and Agent Execution Environtments.png" width="120"/>
   </a>
 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/3ZA45QUH?sharingId=306583673B033A7C">
