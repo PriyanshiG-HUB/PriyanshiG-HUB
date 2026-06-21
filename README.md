@@ -140,3 +140,110 @@
     <img src="https://raw.githubusercontent.com/PriyanshiG-HUB/PriyanshiG-HUB/main/Prepare%20Data%20for%20ML%20APIs%20on%20Google%20Cloud.png" width="140" alt="Google Cloud Badge 2"/>
   </a>
 </p>
+
+---
+
+## 🏅 Microsoft Learn Achievements
+
+<p align="center">
+  <a href="YOUR_MICROSOFT_LEARN_PROFILE">
+    <img src="https://img.shields.io/badge/Microsoft%20Learn-View%20My%20Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  </a>
+
+  <img src="https://img.shields.io/badge/Badges%20Earned-23-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/Y4ELKYTR?sharingId=306583673B033A7C">
+    <img src="badge1.png" width="120"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/H27BVQW8?sharingId=306583673B033A7C">
+    <img src="badge2.png" width="120"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/JHUAHBVT?sharingId=306583673B033A7C">
+    <img src="badge3.png" width="120"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/FEMSECTX?sharingId=306583673B033A7C">
+    <img src="badge4.png" width="120"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/7DKCDJ7Z?sharingId=306583673B033A7C">
+    <img src="badge5.png" width="120"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/P6LN6BP4?sharingId=306583673B033A7C">
+    <img src="badge6.png" width="120"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/D39R9KWJ?sharingId=306583673B033A7C">
+    <img src="badge1.png" width="120"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/4CGFGCPK?sharingId=306583673B033A7C">
+    <img src="badge2.png" width="120"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/2TDUB34V?sharingId=306583673B033A7C">
+    <img src="badge3.png" width="120"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/8VZD7YKW?sharingId=306583673B033A7C">
+    <img src="badge4.png" width="120"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/JHUACZRT?sharingId=306583673B033A7C">
+    <img src="badge5.png" width="120"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/ZJB94B32?sharingId=306583673B033A7C">
+    <img src="badge6.png" width="120"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/JHUA6B4T?sharingId=306583673B033A7C">
+    <img src="badge1.png" width="120"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/FEMSZ6GX?sharingId=306583673B033A7C">
+    <img src="badge2.png" width="120"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/Y4ELVB7R?sharingId=306583673B033A7C">
+    <img src="badge3.png" width="120"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/NQVT7XVF?sharingId=306583673B033A7C">
+    <img src="badge4.png" width="120"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/JHUAGRYT?sharingId=306583673B033A7C">
+    <img src="badge5.png" width="120"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/NQVJ83MF?sharingId=306583673B033A7C">
+    <img src="badge6.png" width="120"/>
+  </a>
+
+  <p align="center">
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/P6LWQUR4?sharingId=306583673B033A7C">
+    <img src="badge1.png" width="120"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/3ZA4C59H?sharingId=306583673B033A7C">
+    <img src="badge2.png" width="120"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/XPQS3J5Y?sharingId=306583673B033A7C">
+    <img src="badge3.png" width="120"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/3ZA45QUH?sharingId=306583673B033A7C">
+    <img src="badge4.png" width="120"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/PriyanshiGajiwala-3140/ZJBCWZF2?sharingId=306583673B033A7C">
+    <img src="badge5.png" width="120"/>
+  </a>
+</p>
